@@ -1,0 +1,720 @@
+.class .group {
+  width: 35.8px;
+  height: 35.8px;
+}
+.class .iconhome-two {
+  background: rgba(255, 255, 255, 0.01);
+  position: relative;
+  margin-right: 17px;
+  display: flex;
+  padding: 3.6px;
+  width: 43px;
+  height: 43px;
+  box-sizing: border-box;
+}
+.class .class-1 {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #F3F4F6;
+}
+.class .group-23 {
+  margin: 10px 0 9px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.class .group-45 {
+  margin-right: 41.2px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.class .vector-15 {
+  width: 23.6px;
+  height: 27px;
+}
+.class .icondocument {
+  margin-right: 12.4px;
+  display: flex;
+  width: 23.6px;
+  height: 27px;
+  box-sizing: border-box;
+}
+.class .tutorial {
+  margin: 1px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #F3F4F6;
+}
+.class .group-22 {
+  margin: 9px 41.7px 7px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.class .vector-11 {
+  width: 30px;
+  height: 26.6px;
+}
+.class .iconchat {
+  margin-right: 15px;
+  display: flex;
+  width: 30px;
+  height: 26.6px;
+  box-sizing: border-box;
+}
+.class .forum {
+  margin: 1px 0 1.6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #F3F4F6;
+}
+.class .group-21 {
+  margin: 9px 0 7.4px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.class .container-4 {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.class .iconprofile-circled {
+  margin-right: 17px;
+  width: 43px;
+  height: 43px;
+}
+.class .hi-user {
+  margin: 7px 0 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1;
+  color: #F3F4F6;
+}
+.class .container-11 {
+  margin: 4px 0px 0 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.class .group-24 {
+  background: #121013;
+  position: relative;
+  margin: 0 32px 99px 11px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 19px 39.7px 15px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.class .java-script-class {
+  margin-right: 21.5px;
+  width: 267.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24.2px;
+  letter-spacing: -0.8px;
+  line-height: 1.792;
+  color: #000000;
+}
+.class .vector-10 {
+  width: 32.3px;
+  height: 20.2px;
+}
+.class .iconarrow-right-7 {
+  margin: 19px 0 3.9px 0;
+  display: flex;
+  width: 32.3px;
+  height: 20.2px;
+  box-sizing: border-box;
+}
+.class .container-9 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 321.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.class .courses {
+  position: absolute;
+  left: 16.1px;
+  bottom: 4.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15.1px;
+  letter-spacing: -0.8px;
+  line-height: 2.867;
+  color: #000000;
+}
+.class .link {
+  box-shadow: 0px 4px 6.1px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.1);
+  border-radius: 12.1px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 70.6px;
+  display: flex;
+  padding: 13.3px 25.2px 27.4px 16.1px;
+  width: 363px;
+  box-sizing: border-box;
+}
+.class .python-class {
+  margin-right: 21.5px;
+  width: 260.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24.2px;
+  letter-spacing: -0.8px;
+  line-height: 1.792;
+  color: #000000;
+}
+.class .vector-9 {
+  width: 32.3px;
+  height: 20.2px;
+}
+.class .iconarrow-right-6 {
+  margin: 19px 0 3.9px 0;
+  display: flex;
+  width: 32.3px;
+  height: 20.2px;
+  box-sizing: border-box;
+}
+.class .container-10 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 314.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.class .courses-1 {
+  position: absolute;
+  left: 22.2px;
+  bottom: 4.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15.1px;
+  letter-spacing: -0.8px;
+  line-height: 2.867;
+  color: #000000;
+}
+.class .link-1 {
+  box-shadow: 0px 4px 6.1px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.1);
+  border-radius: 12.1px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 70.6px;
+  display: flex;
+  padding: 13.3px 26.2px 27.4px 22.2px;
+  width: 363px;
+  box-sizing: border-box;
+}
+.class .html-class {
+  margin-right: 21.5px;
+  width: 264.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24.2px;
+  letter-spacing: -0.8px;
+  line-height: 1.792;
+  color: #000000;
+}
+.class .vector-8 {
+  width: 32.3px;
+  height: 20.2px;
+}
+.class .iconarrow-right-5 {
+  margin: 17px 0 5.9px 0;
+  display: flex;
+  width: 32.3px;
+  height: 20.2px;
+  box-sizing: border-box;
+}
+.class .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 318.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.class .courses-2 {
+  position: absolute;
+  left: 22.2px;
+  bottom: -0.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15.1px;
+  letter-spacing: -0.8px;
+  line-height: 2.867;
+  color: #000000;
+}
+.class .link-2 {
+  box-shadow: 0px 4px 6.1px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.1);
+  border-radius: 12.1px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 70.6px;
+  display: flex;
+  padding: 13.3px 22.2px 27.4px 22.2px;
+  width: 363px;
+  box-sizing: border-box;
+}
+.class .cclass {
+  margin-right: 21.5px;
+  width: 259.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24.2px;
+  letter-spacing: -0.8px;
+  line-height: 1.792;
+  color: #000000;
+}
+.class .vector-7 {
+  width: 32.3px;
+  height: 20.2px;
+}
+.class .iconarrow-right-4 {
+  margin: 19px 0 3.9px 0;
+  display: flex;
+  width: 32.3px;
+  height: 20.2px;
+  box-sizing: border-box;
+}
+.class .container-12 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 313.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.class .courses-3 {
+  position: absolute;
+  left: 24.2px;
+  bottom: 4.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15.1px;
+  letter-spacing: -0.8px;
+  line-height: 2.867;
+  color: #000000;
+}
+.class .link-3 {
+  box-shadow: 0px 4px 6.1px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.1);
+  border-radius: 12.1px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 70.6px;
+  display: flex;
+  padding: 13.3px 25.2px 27.4px 24.2px;
+  width: 363px;
+  box-sizing: border-box;
+}
+.class .cclass-1 {
+  margin-right: 21.5px;
+  width: 259.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24.2px;
+  letter-spacing: -0.8px;
+  line-height: 1.792;
+  color: #000000;
+}
+.class .vector-6 {
+  width: 32.3px;
+  height: 20.2px;
+}
+.class .iconarrow-right-3 {
+  margin: 19px 0 3.9px 0;
+  display: flex;
+  width: 32.3px;
+  height: 20.2px;
+  box-sizing: border-box;
+}
+.class .container-14 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 313.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.class .courses-4 {
+  position: absolute;
+  left: 24.2px;
+  bottom: 4.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15.1px;
+  letter-spacing: -0.8px;
+  line-height: 2.867;
+  color: #000000;
+}
+.class .link-4 {
+  box-shadow: 0px 4px 6.1px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.1);
+  border-radius: 12.1px;
+  background: #F9F1F1;
+  position: relative;
+  margin-bottom: 70.6px;
+  display: flex;
+  padding: 13.3px 25.2px 27.4px 24.2px;
+  width: 363px;
+  box-sizing: border-box;
+}
+.class .sql-class {
+  margin-right: 21.5px;
+  width: 263.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24.2px;
+  letter-spacing: -0.8px;
+  line-height: 1.792;
+  color: #000000;
+}
+.class .vector-5 {
+  width: 32.3px;
+  height: 20.2px;
+}
+.class .iconarrow-right-2 {
+  margin: 19px 0 3.9px 0;
+  display: flex;
+  width: 32.3px;
+  height: 20.2px;
+  box-sizing: border-box;
+}
+.class .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 317.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.class .courses-6 {
+  position: absolute;
+  left: 22.2px;
+  bottom: 7.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15.1px;
+  letter-spacing: -0.8px;
+  line-height: 2.867;
+  color: #000000;
+}
+.class .link-5 {
+  box-shadow: 0px 4px 6.1px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.1);
+  border-radius: 12.1px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 70.6px;
+  display: flex;
+  padding: 11.3px 23.2px 29.4px 22.2px;
+  width: 363px;
+  box-sizing: border-box;
+}
+.class .ruby-class {
+  margin-right: 21.5px;
+  width: 269.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24.2px;
+  letter-spacing: -0.8px;
+  line-height: 1.792;
+  color: #000000;
+}
+.class .vector-4 {
+  width: 32.3px;
+  height: 20.2px;
+}
+.class .iconarrow-right-1 {
+  margin: 19px 0 3.9px 0;
+  display: flex;
+  width: 32.3px;
+  height: 20.2px;
+  box-sizing: border-box;
+}
+.class .container-6 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 323.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.class .courses-5 {
+  position: absolute;
+  left: 17.1px;
+  bottom: 5.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15.1px;
+  letter-spacing: -0.8px;
+  line-height: 2.867;
+  color: #000000;
+}
+.class .link-6 {
+  box-shadow: 0px 4px 6.1px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.1);
+  border-radius: 12.1px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 70.6px;
+  display: flex;
+  padding: 12.3px 22.2px 28.4px 17.1px;
+  width: 363px;
+  box-sizing: border-box;
+}
+.class .php-class {
+  margin-right: 21.5px;
+  width: 268.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24.2px;
+  letter-spacing: -0.8px;
+  line-height: 1.792;
+  color: #000000;
+}
+.class .vector-3 {
+  width: 32.3px;
+  height: 20.2px;
+}
+.class .iconarrow-right {
+  margin: 19px 0 3.9px 0;
+  display: flex;
+  width: 32.3px;
+  height: 20.2px;
+  box-sizing: border-box;
+}
+.class .link-7 {
+  box-shadow: 0px 4px 6.1px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.1);
+  border-radius: 12.1px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 12.3px 23.2px 28.4px 17.1px;
+  width: 363px;
+  box-sizing: border-box;
+}
+.class .div-flex {
+  box-shadow: 0px 4px 6.1px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.1);
+  border-radius: 16.1px;
+  background: #FFFFFF;
+  margin-right: 57.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 86.7px 22.2px 73.6px 22.2px;
+  width: 407.4px;
+  box-sizing: border-box;
+}
+.class .heading-2-most-popular {
+  margin-bottom: 44px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 43.8px;
+  letter-spacing: -0.8px;
+  line-height: 1.075;
+  color: #FFFFFF;
+}
+.class .course-1-introduction-to-cprogramming {
+  margin: 0 14.1px 44.3px 14.1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inknut Antiqua';
+  font-weight: 400;
+  font-size: 26.8px;
+  line-height: 0.504;
+  color: #000000;
+}
+.class .image-2 {
+  background: url('../assets/images/image_2.png');
+  margin: 0 23.7px 99.5px 0;
+  width: 774.6px;
+  height: 484.5px;
+}
+.class .cis-apowerful-general-purpose-programming-language-known-for-its-efficiency-and-flexibility-its-commonly-used-in-system-programming-embedded-systems-and-creating-high-performance-applications-to-start-coding-in-cyou-need-to-install-accompileron-your-device-however-if-you-want-to-get-started-quickly-you-can-use-our-freeonline-ccompilerthat-allows-you-to-run-code-on-your-browserno-installation-required-now-for-those-who-prefer-to-use-con-your-computer-one-of-the-most-popular-ccompilers-is-gcc-gnu-compiler-collection-which-is-available-for-various-platforms-including-linux-mac-os-and-windows-follow-this-guide-which-will-teach-you-to-install-con-windows-mac-os-and-linux-ubuntu {
+  margin: 0 6px 99.5px 16.3px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22.7px;
+  line-height: 1.765;
+  color: #000000;
+}
+.cis-apowerful-general-purpose-programming-language-known-for-its-efficiency-and-flexibility-its-commonly-used-in-system-programming-embedded-systems-and-creating-high-performance-applications-to-start-coding-in-cyou-need-to-install-accompileron-your-device-however-if-you-want-to-get-started-quickly-you-can-use-our-freeonline-ccompilerthat-allows-you-to-run-code-on-your-browserno-installation-required-now-for-those-who-prefer-to-use-con-your-computer-one-of-the-most-popular-ccompilers-is-gcc-gnu-compiler-collection-which-is-available-for-various-platforms-including-linux-mac-os-and-windows-follow-this-guide-which-will-teach-you-to-install-con-windows-mac-os-and-linux-ubuntu-sub78 {
+  font-family: 'Inika', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22.7px;
+  line-height: 1.333;
+}
+.cis-apowerful-general-purpose-programming-language-known-for-its-efficiency-and-flexibility-its-commonly-used-in-system-programming-embedded-systems-and-creating-high-performance-applications-to-start-coding-in-cyou-need-to-install-accompileron-your-device-however-if-you-want-to-get-started-quickly-you-can-use-our-freeonline-ccompilerthat-allows-you-to-run-code-on-your-browserno-installation-required-now-for-those-who-prefer-to-use-con-your-computer-one-of-the-most-popular-ccompilers-is-gcc-gnu-compiler-collection-which-is-available-for-various-platforms-including-linux-mac-os-and-windows-follow-this-guide-which-will-teach-you-to-install-con-windows-mac-os-and-linux-ubuntu-sub77 {
+  font-family: 'Inika', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22.7px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.cis-apowerful-general-purpose-programming-language-known-for-its-efficiency-and-flexibility-its-commonly-used-in-system-programming-embedded-systems-and-creating-high-performance-applications-to-start-coding-in-cyou-need-to-install-accompileron-your-device-however-if-you-want-to-get-started-quickly-you-can-use-our-freeonline-ccompilerthat-allows-you-to-run-code-on-your-browserno-installation-required-now-for-those-who-prefer-to-use-con-your-computer-one-of-the-most-popular-ccompilers-is-gcc-gnu-compiler-collection-which-is-available-for-various-platforms-including-linux-mac-os-and-windows-follow-this-guide-which-will-teach-you-to-install-con-windows-mac-os-and-linux-ubuntu {
+  font-family: 'Inika', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22.7px;
+  line-height: 1.333;
+}
+.class .course-2 {
+  margin: 0 0px;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 900;
+  font-size: 18.3px;
+  line-height: 1;
+  color: #000000;
+}
+.class .div-flex-1 {
+  box-shadow: 0px 2.7px 4.1px -0.7px rgba(0, 0, 0, 0.1), 0px 1.4px 2.7px -1.4px rgba(0, 0, 0, 0.1);
+  border-radius: 10.8px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 34.8px 25.9px 21.5px 37.7px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.class .container-13 {
+  margin: 23px 0 34px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.class .container-7 {
+  margin: 0 76px 134px 80px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.class .screenshot-20240401134128-removebg-preview-3 {
+  background: url('../assets/images/screenshot_20240401134128_removebg_preview_2.png');
+  width: 396px;
+  height: 149px;
+}
+.class .feedback {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 0.813;
+  color: #F3F4F6;
+}
+.class .group-42 {
+  margin: 0 0 18.8px 11px;
+  display: flex;
+  box-sizing: border-box;
+}
+.class .contact-us {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1;
+  color: #F3F4F6;
+}
+.class .container-3 {
+  border-radius: 15px;
+  background: #4A1989;
+  position: relative;
+  display: flex;
+  padding: 12.5px 0 12.5px 8.3px;
+  width: 312px;
+  box-sizing: border-box;
+}
+.class .container {
+  margin: 11.2px 0 50px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 312px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.class .container-8 {
+  background: #121013;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 86px 0 87px 0;
+  width: 1483px;
+  box-sizing: border-box;
+}
+.class .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1483px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.class .screenshot-20240401134128-removebg-preview-21 {
+  width: 219px;
+  height: 110px;
+}
+.class .screenshot-20240401134128-removebg-preview-2 {
+  position: absolute;
+  left: -40px;
+  top: 8px;
+  display: flex;
+  width: 219px;
+  height: 110px;
+  box-sizing: border-box;
+}
+.class {
+  background: #0B6468;
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}

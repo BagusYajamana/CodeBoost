@@ -1,0 +1,326 @@
+/* General Styles
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  background-color: #0F172A;
+  color: #F3F4F6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.log-in {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  max-width: 600px;
+  width: 100%;
+  background: #1E293B;
+  border-radius: 15px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  position: relative;
+  overflow: hidden;
+}
+
+.log-in .heading-1-gabung-brainly {
+  font-weight: 900;
+  font-size: 2.5rem;
+  line-height: 1.2;
+  text-align: center;
+  margin-bottom: 30px;
+  color: #F3F4F6;
+}
+
+.log-in .log-in-with-an-existing-code-boost-account {
+  font-weight: 400;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  text-align: center;
+  margin-bottom: 30px;
+  color: #F3F4F6;
+}
+
+.log-in .container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.log-in .group-37 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #0B6468;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  margin-bottom: 20px;
+}
+
+.log-in .iconphone {
+  width: 50%;
+  height: 50%;
+}
+
+.log-in .login-with-phone {
+  font-family: 'Kanit', sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #F3F4F6;
+}
+
+.log-in .group-39, .log-in .group-33 {
+  background: #0B6468;
+  border-radius: 15px;
+  padding: 15px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.log-in .group-39 {
+  top: 20%;
+  transform: translateY(-50%);
+}
+
+.log-in .group-1 {
+  width: 40px;
+  height: 40px;
+}
+
+.log-in .sign-up-with-google, .log-in .dont-have-an-account {
+  font-family: 'Kanit', sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+  text-align: center;
+  color: #F3F4F6;
+}
+
+.log-in .dont-have-an-account {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+.log-in .group-331, .log-in .log-in-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 20px;
+}
+
+.log-in .group-331 {
+  left: 20px;
+}
+
+.log-in .log-in-2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 1.2rem;
+  color: #9747FF;
+}
+
+.log-in .log-in-1 {
+  right: 20px;
+}
+
+.log-in .screenshot-20240401134128-removebg-preview-2-default {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  width: 150px;
+  height: auto;
+}
+
+.log-in .polygon-1 {
+  position: absolute;
+  transform: rotate(115deg);
+  width: 200%;
+  height: 200%;
+  background: rgba(255, 255, 255, 0.1);
+  z-index: -1;
+} */
+/* * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  background-color: #0F172A;
+  color: #F3F4F6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+} */
+
+
+.log-in .heading-1-gabung-brainly {
+  margin: 0 0.1px 42.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 0.65;
+  color: #F3F4F6;
+}
+.log-in .log-in-with-an-existing-code-boost-account {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 23.4px;
+  line-height: 0.833;
+  color: #F3F4F6;
+}
+.log-in .container {
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+  
+  box-sizing: border-box;
+  margin-top: 220px; 
+  width: 100%;
+  height: 100%;
+}
+
+.log-in .polygon-1 {
+  transform: rotate(115.233deg);
+  position: absolute;
+  right: -726.7px;
+  bottom: -928.6px;
+  width: 1678px;
+  height: 1884.7px;
+}
+.log-in .iconphone {
+  width: 46.5px;
+  height: 46.5px;
+}
+.log-in .group-37 {
+  display: flex;
+  width: 46.5px;
+  height: 46.5px;
+  box-sizing: border-box;
+}
+.log-in .login-with-phone {
+  margin: 7.5px 0 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 27px;
+  line-height: 0.889;
+  color: #F3F4F6;
+}
+.log-in .group-39 {
+  border-radius: 15px;
+  background: #0B6468;
+  position: absolute;
+  top: 416px;
+  right: 780px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 14px 0 13.5px 0;
+  width: 605px;
+  box-sizing: border-box;
+}
+.log-in .group-1 {
+  width: 37.2px;
+  height: 37.1px;
+}
+.log-in .sign-up-with-google {
+  margin: 8.5px 0 4.6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 27px;
+  line-height: 0.889;
+  color: #F3F4F6;
+}
+.log-in .group-33 {
+  border-radius: 15px;
+  background: #0B6468;
+  position: absolute;
+  right: 780px;
+  bottom: 452px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 0 19.9px 59.1px;
+  width: 605px;
+  box-sizing: border-box;
+}
+.log-in .dont-have-an-account {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 19.5px;
+  line-height: 1;
+  color: #F3F4F6;
+}
+.log-in .group-331 {
+  position: absolute;
+  right: 780px;
+  bottom: 400px;
+  display: flex;
+  box-sizing: border-box;
+}
+.log-in .log-in-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 19.5px;
+  line-height: 1;
+  color: #9747FF;
+}
+.log-in .log-in-1 {
+  position: absolute;
+  right: 100%;
+  bottom: 100%;
+  display: flex;
+  box-sizing: border-box;
+}
+.log-in .screenshot-20240401134128-removebg-preview-2 {
+  background: url('../assets/images/logo-codeboost.png');
+  width: 100%;
+
+}
+.log-in .screenshot-20240401134128-removebg-preview-2-default {
+  position:absolute;
+  right: 350px;
+  bottom: 90px;
+  display:flex;
+  transform: translateX(-50%);
+ 
+  width: 720px;
+  height: 260px;
+  box-sizing: border-box;
+}
+.log-in {
+  position: absolute;
+  background: #0F172A;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0; 
+  overflow: hidden;
+} 

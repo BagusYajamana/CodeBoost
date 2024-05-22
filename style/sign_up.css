@@ -1,0 +1,174 @@
+.sign-up .polygon-1 {
+  transform: rotate(-29.587deg);
+  position: absolute;
+  left: -915px;
+  top: -914px;
+  width: 2332.4px;
+  height: 2007px;
+}
+.sign-up .heading-1-gabung-brainly {
+  /* display: inline-block; */
+  /* margin: 0 0.1px 42.4px 0; */
+
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 0.683;
+  color: #F3F4F6;
+}
+.sign-up .container-1{
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    margin-top: 120px;
+    width: 100%;
+    height: 100%;
+}
+.sign-up .group-32 {
+  position: relative;
+  margin-top: 30px;
+  margin-bottom: 45.7px;
+  display: flex;
+  box-sizing: border-box;
+}
+.sign-up .create-an-account-to-get-more-feature-from-us {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24.6px;
+  line-height: 0.833;
+  color: #F3F4F6;
+}
+.sign-up .group-321 {
+  position: relative;
+  margin: 0 0.4px 69.8px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.sign-up .iconphone {
+  width: 46.5px;
+  height: 46.5px;
+}
+.sign-up .group-37 {
+  display: flex;
+  width: 46.5px;
+  height: 46.5px;
+  box-sizing: border-box;
+}
+.sign-up .sign-up-with-phone-number {
+  margin: 12.5px 0 10px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 27px;
+  line-height: 0.889;
+  color: #F3F4F6;
+}
+.sign-up .component-1 {
+  border-radius: 15px;
+  background: #0B6468;
+  position: relative;
+  margin-bottom: 45px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 12px 0 18.5px 56px;
+  width: 635px;
+  box-sizing: border-box;
+}
+.sign-up .group {
+  width: 39px;
+  height: 37.1px;
+}
+.sign-up .sign-in-with-google {
+  margin: 8.5px 0 4.6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 27px;
+  line-height: 0.889;
+  color: #F3F4F6;
+}
+.sign-up .group-29 {
+  border-radius: 15px;
+  background: #0B6468;
+  position: relative;
+  margin-bottom: 56.2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 0 19.9px 62px;
+  width: 635px;
+  box-sizing: border-box;
+}
+.sign-up .already-have-an-account {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 19.5px;
+  line-height: 1;
+  color: #F3F4F6;
+}
+.sign-up .group-28 {
+  display: flex;
+  box-sizing: border-box;
+}
+.sign-up .log-in-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 19.5px;
+  line-height: 1;
+  color: #9747FF;
+}
+.sign-up .log-in {
+  display: flex;
+  box-sizing: border-box;
+}
+.sign-up .container {
+  position: relative;
+  margin: 0 44px 98.8px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 316px;
+  box-sizing: border-box;
+}
+.sign-up .screenshot-20240401134128-removebg-preview-2 {
+  background: url('../assets/images/logo-codeboost.png');
+  width: 100%;
+}
+.sign-up .screenshot-20240401134128-removebg-preview-2-default {
+  /* position: relative;
+  margin-right: 1px;
+  display: flex;
+  width: 396px;
+  height: 149px;
+  box-sizing: border-box; */
+  position:absolute;
+  right: 350px;
+  bottom: 90px;
+  display:flex;
+  transform: translateX(-50%);
+  width: 720px;
+  height: 260px;
+  box-sizing: border-box;
+  object-fit: contain;
+}
+.sign-up {
+  position: absolute;
+  background: #0F172A;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  box-sizing: border-box;
+}

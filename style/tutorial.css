@@ -1,0 +1,1110 @@
+.tutorial .group-2 {
+  width: 35.8px;
+  height: 35.8px;
+}
+.tutorial .iconhome-two {
+  background: rgba(255, 255, 255, 0.01);
+  position: relative;
+  margin-right: 17px;
+  display: flex;
+  padding: 3.6px;
+  width: 43px;
+  height: 43px;
+  box-sizing: border-box;
+}
+.tutorial .class-1 {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #F3F4F6;
+}
+.tutorial .group-231 {
+  margin: 10px 0 9px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .group-45 {
+  margin-right: 38.2px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.tutorial .vector-25 {
+  width: 26.3px;
+  height: 27px;
+}
+.tutorial .iconplay-circle {
+  margin-right: 11.7px;
+  display: flex;
+  width: 26.3px;
+  height: 27px;
+  box-sizing: border-box;
+}
+.tutorial .class {
+  margin: 1px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #F3F4F6;
+}
+.tutorial .group-23 {
+  margin: 7px 41.6px 9px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.tutorial .vector-24 {
+  width: 28.6px;
+  height: 27px;
+}
+.tutorial .iconchat {
+  margin-right: 14.3px;
+  display: flex;
+  width: 28.6px;
+  height: 27px;
+  box-sizing: border-box;
+}
+.tutorial .forum {
+  margin: 1.2px 0 1.8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #F3F4F6;
+}
+.tutorial .group-21 {
+  margin: 9px 0 7px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.tutorial .container-4 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.tutorial .iconprofile-circled {
+  margin-right: 21px;
+  width: 43px;
+  height: 43px;
+}
+.tutorial .hi-user {
+  margin: 9px 0 10px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1;
+  color: #F3F4F6;
+}
+.tutorial .container-3 {
+  margin-right: 0px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.tutorial .group-24 {
+  background: #121013;
+  position: relative;
+  margin: 0 32px 52px 11px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 19px 52.7px 19px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.tutorial .search {
+  margin: 9px 8.5px 11px 0;
+  display: inline-block;
+  width: 657.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 12.1px;
+  line-height: 1.429;
+  text-transform: uppercase;
+  color: #000000;
+}
+.tutorial .search {
+  width: 28px;
+  height: 25px;
+}
+.tutorial .container-7 {
+  border-radius: 18.5px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 6px 4px 6px 5px;
+  width: 37px;
+  height: 37px;
+  box-sizing: border-box;
+}
+.tutorial .container-8 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 55px 28px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 7px 17px 7px 20px;
+  width: 740px;
+  box-sizing: border-box;
+}
+.tutorial .recomendation {
+  margin-bottom: 3.4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 12.4px;
+  line-height: 1.429;
+  text-transform: uppercase;
+  color: #0D9488;
+}
+.tutorial .heading-2-most-popular {
+  margin: 0 4.4px 7px 4.4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24.3px;
+  letter-spacing: -0.7px;
+  line-height: 1.313;
+  color: #1E293B;
+}
+.tutorial .most-read-and-recommended {
+  margin: 0 4.4px 7.4px 4.4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15.1px;
+  line-height: 1.646;
+  color: #64748B;
+}
+.tutorial .vector-21 {
+  width: 48.7px;
+  height: 55.2px;
+}
+.tutorial .svg-3 {
+  margin: 0.8px 18.2px 0 0;
+  display: flex;
+  width: 48.7px;
+  height: 55.2px;
+  box-sizing: border-box;
+}
+.tutorial .html-tutorial-for-beginners {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 13.2px;
+  line-height: 1.613;
+  color: #1E293B;
+}
+.tutorial .heading-33 {
+  margin-bottom: 3.9px;
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .learn-html-basics-to-create-website-from-scratch {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.422;
+  color: #334155;
+}
+.tutorial .ptext-xs-3 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.tutorial .div-3 {
+  margin-bottom: 3.1px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.tutorial .link {
+  box-shadow: 0px 3.5px 5.3px -0.9px rgba(0, 0, 0, 0.1), 0px 1.8px 3.5px -1.8px rgba(0, 0, 0, 0.1);
+  border-radius: 10.6px;
+  background: #FFFFFF;
+  margin: 7px 9px 0 0;
+  display: flex;
+  flex-direction: row;
+  padding: 14.3px 0 39.8px 18.2px;
+  width: 333px;
+  box-sizing: border-box;
+}
+.tutorial .svg-4 {
+  margin-right: 14.2px;
+  width: 56.7px;
+  height: 56.7px;
+}
+.tutorial .basic-java-script-tutorial {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 1.641;
+  color: #1E293B;
+}
+.tutorial .heading-34 {
+  margin-bottom: 3.9px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.tutorial .learn-the-basics-of-javascript-programming-to-create-interactive-websites {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.422;
+  color: #334155;
+}
+.tutorial .ptext-xs-4 {
+  margin-left: 0px;
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .div-4 {
+  margin: 0.1px 0 3.7px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.tutorial .link-1 {
+  box-shadow: 0px 3.5px 5.3px -0.9px rgba(0, 0, 0, 0.1), 0px 1.8px 3.5px -1.8px rgba(0, 0, 0, 0.1);
+  border-radius: 10.6px;
+  background: #FFFFFF;
+  margin-bottom: 0.2px;
+  display: flex;
+  flex-direction: row;
+  padding: 14.2px 0 45.9px 14.2px;
+  width: 355.1px;
+  box-sizing: border-box;
+}
+.tutorial .container-11 {
+  margin: 0 0 3px 4.3px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tutorial .svg-5 {
+  margin-right: 14.2px;
+  width: 56.7px;
+  height: 56.7px;
+}
+.tutorial .java-tutorial-for-beginners {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 13.2px;
+  line-height: 1.613;
+  color: #1E293B;
+}
+.tutorial .heading-35 {
+  margin-bottom: 3.9px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.tutorial .learn-the-basics-of-java-programming-from-zero {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.422;
+  color: #334155;
+}
+.tutorial .ptext-xs-5 {
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .div-5 {
+  margin: 0.1px 0 3.7px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.tutorial .link-6 {
+  box-shadow: 0px 3.5px 5.3px -0.9px rgba(0, 0, 0, 0.1), 0px 1.8px 3.5px -1.8px rgba(0, 0, 0, 0.1);
+  border-radius: 10.6px;
+  background: #FFFFFF;
+  margin: 0 9px 3px 0;
+  display: flex;
+  flex-direction: row;
+  padding: 14.2px 0 23.1px 14.2px;
+  width: 333px;
+  box-sizing: border-box;
+}
+.tutorial .vector-3 {
+  width: 39.9px;
+  height: 45.7px;
+}
+.tutorial .svg {
+  margin: 1.3px 19px 3.8px 0;
+  display: flex;
+  width: 39.9px;
+  height: 45.7px;
+  box-sizing: border-box;
+}
+.tutorial .cprogramming-tutorial {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 11.1px;
+  line-height: 1.6;
+  color: #1E293B;
+}
+.tutorial .heading-3 {
+  margin-bottom: 8.8px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.tutorial .learn-the-basics-of-cprogramming-for-from-zero {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.182;
+  color: #334155;
+}
+.tutorial .ptext-xs {
+  margin-left: 0.1px;
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .div {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.tutorial .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.tutorial .vector-34 {
+  width: 39.9px;
+  height: 45.7px;
+}
+.tutorial .svg-6 {
+  margin: 1.3px 19px 3.8px 0;
+  display: flex;
+  width: 39.9px;
+  height: 45.7px;
+  box-sizing: border-box;
+}
+.tutorial .cprogramming-tutorial-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 11.1px;
+  line-height: 1.6;
+  color: #1E293B;
+}
+.tutorial .heading-36 {
+  margin-bottom: 8.8px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.tutorial .learn-the-basics-of-cprogramming-for-from-zero-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.182;
+  color: #334155;
+}
+.tutorial .ptext-xs-6 {
+  margin-left: 0.1px;
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .div-6 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.tutorial .link-7 {
+  box-shadow: 0px 3px 4.4px -0.7px rgba(0, 0, 0, 0.1), 0px 1.5px 3px -1.5px rgba(0, 0, 0, 0.1);
+  border-radius: 8.9px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: -1px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  padding: 22.9px 0 23.3px 12.2px;
+  width: 355px;
+  box-sizing: border-box;
+}
+.tutorial .link-2 {
+  box-shadow: 0px 3px 4.4px -0.7px rgba(0, 0, 0, 0.1), 0px 1.5px 3px -1.5px rgba(0, 0, 0, 0.1);
+  border-radius: 8.9px;
+  background: #FFFFFF;
+  position: relative;
+  padding: 22.9px 12.2px 23.3px 12.2px;
+  width: 355px;
+  box-sizing: border-box;
+}
+.tutorial .container-9 {
+  margin: 0 0.1px 4px 4.3px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tutorial .svg-1 {
+  position: absolute;
+  left: 14.2px;
+  top: 14.2px;
+  width: 56.7px;
+  height: 56.7px;
+}
+.tutorial .python-tutorial-for-beginners {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 13.1px;
+  line-height: 1.627;
+  color: #1E293B;
+}
+.tutorial .heading-31 {
+  margin: 0 14px 3.9px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .learn-the-basics-of-python-programming-for-beginners {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.422;
+  color: #334155;
+}
+.tutorial .ptext-xs-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .div-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.tutorial .svg-7 {
+  margin-right: 14.2px;
+  width: 56.7px;
+  height: 56.7px;
+}
+.tutorial .python-tutorial-for-beginners-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 13.1px;
+  line-height: 1.627;
+  color: #1E293B;
+}
+.tutorial .heading-37 {
+  margin: 0 14px 3.9px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .learn-the-basics-of-python-programming-for-beginners-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.422;
+  color: #334155;
+}
+.tutorial .ptext-xs-7 {
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .div-7 {
+  margin: 0.1px 0 3.7px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.tutorial .link-8 {
+  box-shadow: 0px 3.5px 5.3px -0.9px rgba(0, 0, 0, 0.1), 0px 1.8px 3.5px -1.8px rgba(0, 0, 0, 0.1);
+  border-radius: 10.6px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  padding: 14.2px 0 28.1px 14.2px;
+  width: 333px;
+  box-sizing: border-box;
+}
+.tutorial .link-3 {
+  box-shadow: 0px 3.5px 5.3px -0.9px rgba(0, 0, 0, 0.1), 0px 1.8px 3.5px -1.8px rgba(0, 0, 0, 0.1);
+  border-radius: 10.6px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 9px;
+  display: flex;
+  padding: 14.3px 0 31.8px 34.2px;
+  width: 333px;
+  box-sizing: border-box;
+}
+.tutorial .vector-7 {
+  width: 55.9px;
+  height: 55.9px;
+}
+.tutorial .svg-2 {
+  margin: 0.3px 14.6px 0 0;
+  display: flex;
+  width: 55.9px;
+  height: 55.9px;
+  box-sizing: border-box;
+}
+.tutorial .tutorial-git-untuk-pemula {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 13.1px;
+  line-height: 1.627;
+  color: #1E293B;
+}
+.tutorial .heading-32 {
+  margin-bottom: 3.9px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.tutorial .learn-git-basics-for-version-control-on-projects-and-collaboration-with-teams {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 9.8px;
+  line-height: 1.446;
+  color: #334155;
+}
+.tutorial .ptext-xs-2 {
+  margin-left: 0px;
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .div-2 {
+  margin-bottom: 3.3px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.tutorial .container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.tutorial .vector-38 {
+  width: 55.9px;
+  height: 55.9px;
+}
+.tutorial .svg-8 {
+  margin: 0.3px 14.6px 0 0;
+  display: flex;
+  width: 55.9px;
+  height: 55.9px;
+  box-sizing: border-box;
+}
+.tutorial .tutorial-git-untuk-pemula-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 13.1px;
+  line-height: 1.627;
+  color: #1E293B;
+}
+.tutorial .heading-38 {
+  margin-bottom: 3.9px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.tutorial .learn-git-basics-for-version-control-on-projects-and-collaboration-with-teams-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 9.8px;
+  line-height: 1.446;
+  color: #334155;
+}
+.tutorial .ptext-xs-8 {
+  margin-left: 0px;
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .div-8 {
+  margin-bottom: 3.3px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.tutorial .link-9 {
+  box-shadow: 0px 3.5px 5.3px -0.9px rgba(0, 0, 0, 0.1), 0px 1.8px 3.5px -1.8px rgba(0, 0, 0, 0.1);
+  border-radius: 10.6px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  bottom: -1px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  padding: 14.3px 0 14.5px 14.6px;
+  width: 355px;
+  box-sizing: border-box;
+}
+.tutorial .link-4 {
+  box-shadow: 0px 3.5px 5.3px -0.9px rgba(0, 0, 0, 0.1), 0px 1.8px 3.5px -1.8px rgba(0, 0, 0, 0.1);
+  border-radius: 10.6px;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 14px;
+  padding: 14.3px 14.6px 14.5px 14.6px;
+  width: 355px;
+  box-sizing: border-box;
+}
+.tutorial .container-5 {
+  margin: 0 0.1px 0 4.3px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tutorial .div-container {
+  background: #FFFFFF;
+  margin: 0 32px 41.3px 0;
+  display: flex;
+  flex-direction: column;
+  padding: 3.3px 5.9px 16px 9.7px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tutorial .heading-2-semua-tutorial {
+  margin-bottom: 2.2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 26.3px;
+  letter-spacing: -0.7px;
+  line-height: 1.239;
+  color: #D5D9DB;
+}
+.tutorial .find-the-tutorial-you-want-to-learn {
+  margin-bottom: 23.3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15.3px;
+  line-height: 1.659;
+  color: #D5D9DB;
+}
+.tutorial .group {
+  width: 96.8px;
+  height: 96.3px;
+}
+.tutorial .picture-python-svg {
+  border-radius: 10.9px;
+  display: flex;
+  width: 96.8px;
+  height: 96.3px;
+  box-sizing: border-box;
+}
+.tutorial .link-5 {
+  position: absolute;
+  left: 38.3px;
+  bottom: 15px;
+  display: flex;
+  width: 96.8px;
+  height: 96.3px;
+  box-sizing: border-box;
+}
+.tutorial .link-tutorial-baca-tulis-file-dengan-python {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 17.8px;
+  letter-spacing: -0.5px;
+  line-height: 1.422;
+  color: #1E293B;
+}
+.tutorial .heading-2 {
+  margin-bottom: 7.4px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.tutorial .in-this-tutorial-we-will-learn-to-read-and-write-files-in-python-starting-from-text-files-json-xml-csv-etc {
+  position: absolute;
+  left: 0px;
+  bottom: -8.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12.2px;
+  line-height: 1.487;
+  color: #64748B;
+}
+.tutorial .ptext-sm {
+  position: relative;
+  margin-left: 0px;
+  width: 339.9px;
+  height: 54.3px;
+}
+.tutorial .div-grow {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.tutorial .div-flex {
+  box-shadow: 0px 3.6px 5.4px -0.9px rgba(0, 0, 0, 0.1), 0px 1.8px 3.6px -1.8px rgba(0, 0, 0, 0.1);
+  border-radius: 14.5px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 24.9px;
+  display: flex;
+  padding: 31px 0 31.9px 11.3px;
+  width: 661.3px;
+  box-sizing: border-box;
+}
+.tutorial .group-1 {
+  width: 75px;
+  height: 101.7px;
+}
+.tutorial .link-picture-java-svg {
+  border-radius: 10.9px;
+  position: absolute;
+  left: 21.7px;
+  bottom: -2.4px;
+  display: flex;
+  padding: 10.4px 2.1px 18.1px 0;
+  width: 126px;
+  height: 130.2px;
+  box-sizing: border-box;
+}
+.tutorial .link-tutorial-dasar-oop-di-java-untuk-pemula {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 17.8px;
+  letter-spacing: -0.5px;
+  line-height: 1.422;
+  color: #1E293B;
+}
+.tutorial .heading-21 {
+  margin-bottom: 7.5px;
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .in-this-tutorial-we-will-learn-oop-with-java-so-you-will-understand-the-basic-concepts-of-oop-object-oriented-programming-in-java {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10.9px;
+  line-height: 1.667;
+  color: #64748B;
+}
+.tutorial .ptext-sm-1 {
+  margin: 0 26.7px 0 0px;
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .div-grow-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.tutorial .div-flex-1 {
+  box-shadow: 0px 3.6px 5.4px -0.9px rgba(0, 0, 0, 0.1), 0px 1.8px 3.6px -1.8px rgba(0, 0, 0, 0.1);
+  border-radius: 14.5px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 24.9px;
+  display: flex;
+  padding: 31px 2px 32px 0;
+  width: 661.3px;
+  box-sizing: border-box;
+}
+.tutorial .link-picture-cpp-sqr-png {
+  border-radius: 10.9px;
+  background: url('../assets/images/link_picture_cpp_sqr_png.png');
+  position: absolute;
+  left: 21.7px;
+  bottom: -2.4px;
+  width: 126px;
+  height: 130.2px;
+}
+.tutorial .link-tutorial-pemrograman-cuntuk-pemula {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 17.5px;
+  letter-spacing: -0.5px;
+  line-height: 1.445;
+  color: #1E293B;
+}
+.tutorial .heading-22 {
+  margin-bottom: 7.5px;
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .in-this-tutorial-you-will-learn-the-basics-cprogramming-starting-from-an-introduction-to-what-cis-to-creating-text-based-programs-with-c {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 9.9px;
+  line-height: 1.818;
+  color: #64748B;
+}
+.tutorial .ptext-sm-2 {
+  margin: 0 14.6px 0 0px;
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .div-grow-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.tutorial .div-flex-2 {
+  box-shadow: 0px 3.6px 5.4px -0.9px rgba(0, 0, 0, 0.1), 0px 1.8px 3.6px -1.8px rgba(0, 0, 0, 0.1);
+  border-radius: 14.5px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 24.9px;
+  display: flex;
+  padding: 31px 8.5px 32px 0;
+  width: 661.3px;
+  box-sizing: border-box;
+}
+.tutorial .link-picture-cs-sqr-png {
+  border-radius: 10.9px;
+  background: url('../assets/images/link_picture_cs_sqr_png.png');
+  position: absolute;
+  left: 21.7px;
+  bottom: -2.4px;
+  width: 126px;
+  height: 130.2px;
+}
+.tutorial .link-belajar-pemrograman-cuntuk-pemula {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 17.7px;
+  letter-spacing: -0.5px;
+  line-height: 1.434;
+  color: #1E293B;
+}
+.tutorial .heading-23 {
+  margin-bottom: 7.5px;
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .complete-ctutorial-for-beginners-to-experts-cis-oop-programming-language-is-popularly-used-for-create-games-desktop-programs-and-the-web {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 11.9px;
+  line-height: 1.524;
+  color: #64748B;
+}
+.tutorial .ptext-sm-3 {
+  margin: 0 4.6px 0 0px;
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .div-grow-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.tutorial .div-flex-3 {
+  box-shadow: 0px 3.6px 5.4px -0.9px rgba(0, 0, 0, 0.1), 0px 1.8px 3.6px -1.8px rgba(0, 0, 0, 0.1);
+  border-radius: 14.5px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 24.9px;
+  display: flex;
+  padding: 31px 30.3px 32px 0;
+  width: 661.3px;
+  box-sizing: border-box;
+}
+.tutorial .link-picture-csqr-webp {
+  border-radius: 10.9px;
+  background: url('../assets/images/link_picture_csqr_webp.png');
+  position: absolute;
+  left: 21.7px;
+  bottom: -2.4px;
+  width: 126px;
+  height: 130.2px;
+}
+.tutorial .link-belajar-pemrograman-cuntuk-pemula-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 17.8px;
+  letter-spacing: -0.5px;
+  line-height: 1.422;
+  color: #1E293B;
+}
+.tutorial .heading-24 {
+  margin: 0 23.2px 7.5px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .in-this-tutorial-you-will-learn-the-basics-cprogramming-starting-from-an-introduction-to-what-cis-to-create-text-based-programs-with-c {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10.9px;
+  line-height: 1.667;
+  color: #64748B;
+}
+.tutorial .ptext-sm-4 {
+  margin-left: 0px;
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .div-grow-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.tutorial .div-flex-4 {
+  box-shadow: 0px 3.6px 5.4px -0.9px rgba(0, 0, 0, 0.1), 0px 1.8px 3.6px -1.8px rgba(0, 0, 0, 0.1);
+  border-radius: 14.5px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 31px 13px 32px 0;
+  width: 661.3px;
+  box-sizing: border-box;
+}
+.tutorial .group-10 {
+  border-radius: 14.5px;
+  margin: 0 57.7px 21.9px 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tutorial .screenshot-20240401134128-removebg-preview-3 {
+  background: url('../assets/images/screenshot_20240401134128_removebg_preview_2.png');
+  width: 396px;
+  height: 149px;
+}
+.tutorial .feedback {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 0.813;
+  color: #F3F4F6;
+}
+.tutorial .group-42 {
+  margin: 0 1px 22.8px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.tutorial .contact-us {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1;
+  color: #F3F4F6;
+}
+.tutorial .container-12 {
+  border-radius: 15px;
+  background: #4A1989;
+  position: relative;
+  display: flex;
+  padding: 12.5px 0 12.5px 12.3px;
+  width: 312px;
+  box-sizing: border-box;
+}
+.tutorial .container-10 {
+  margin: 32.2px 0 25px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 312px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.tutorial .container-1 {
+  background: #121013;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 68px 0 105px 0;
+  width: 1483px;
+  box-sizing: border-box;
+}
+.tutorial .container-6 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1483px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.tutorial .screenshot-20240401134128-removebg-preview-21 {
+  width: 219px;
+  height: 110px;
+}
+.tutorial .screenshot-20240401134128-removebg-preview-2 {
+  position: absolute;
+  left: -40px;
+  top: 8px;
+  display: flex;
+  width: 219px;
+  height: 110px;
+  box-sizing: border-box;
+}
+.tutorial {
+  background: #0B6468;
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}

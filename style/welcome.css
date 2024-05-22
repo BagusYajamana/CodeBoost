@@ -1,0 +1,245 @@
+.welcome .rectangle-4 {
+  background: #0F172A;
+  position: absolute;
+  left: -27px;
+  top: 0px;
+  width: 1488px;
+  height: 1068px;
+}
+.welcome .heading-1-petani-kode-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 32px;
+  letter-spacing: -3px;
+  line-height: 1.875;
+  color: #F3F4F6;
+}
+.welcome .group-4 {
+  margin: 0 51px 288px 51px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.welcome .heading-1-petani-kode {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 48px;
+  letter-spacing: -3px;
+  line-height: 1.25;
+  color: #F3F4F6;
+}
+.welcome .group-19 {
+  margin-bottom: 67.5px;
+  display: flex;
+  box-sizing: border-box;
+}
+.welcome .our-website-primaly-using-ccpython-java-script-html-sql-ruby-php {
+  margin-right: 3.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 23.8px;
+  line-height: 1.344;
+  color: #F3F4F6;
+}
+.welcome .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.welcome .polygon-1 {
+  transform: rotate(-29.587deg);
+  position: absolute;
+  right: -888.7px;
+  bottom: -750.7px;
+  width: 2255.2px;
+  height: 1871.2px;
+}
+.welcome .screenshot-20240401134128-removebg-preview-21 {
+  background: url('../assets/images/screenshot_20240401134128_removebg_preview_2.png');
+  position: absolute;
+  top: 50%;
+  right: 64px;
+  translate: 0 -50%;
+  width: 620px;
+  height: 234px;
+}
+.welcome .vector-2 {
+  width: 27px;
+  height: 27px;
+}
+.welcome .iconplay-circle {
+  margin-right: 12px;
+  display: flex;
+  width: 27px;
+  height: 27px;
+  box-sizing: border-box;
+}
+.welcome .class {
+  margin: 1px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #F3F4F6;
+}
+.welcome .group-23 {
+  margin: 12px 0 7px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.welcome .vector-1 {
+  width: 23.6px;
+  height: 27px;
+}
+.welcome .icondocument {
+  margin-right: 12.4px;
+  display: flex;
+  width: 23.6px;
+  height: 27px;
+  box-sizing: border-box;
+}
+.welcome .tutorial {
+  margin: 1px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #F3F4F6;
+}
+.welcome .group-22 {
+  margin-bottom: 0.6px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.welcome .vector {
+  width: 30px;
+  height: 26.6px;
+}
+.welcome .iconchat {
+  margin-right: 15px;
+  display: flex;
+  width: 30px;
+  height: 26.6px;
+  box-sizing: border-box;
+}
+.welcome .forum {
+  margin: 1px 0 1.6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #F3F4F6;
+}
+.welcome .group-21 {
+  margin-top: 1px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.welcome .container {
+  margin: 10px 0 8.4px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 254.1px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.welcome .sign-up {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.091;
+  color: #F3F4F6;
+}
+.welcome .group-18 {
+  border-radius: 20px;
+  background: #0E8388;
+  position: relative;
+  display: flex;
+  padding: 11.5px 0 10.5px 3.6px;
+  width: 178px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.welcome .login {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.091;
+  color: #F3F4F6;
+}
+.welcome .group-20 {
+  border-radius: 20px;
+  background: #0E8388;
+  position: relative;
+  display: flex;
+  padding: 9.5px 0 12.5px 4.9px;
+  width: 178px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.welcome .group-24 {
+  background: #121013;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 17px 61px 18px 0;
+  box-sizing: border-box;
+}
+.welcome .start-learning {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.091;
+  color: #F3F4F6;
+}
+.welcome .group-27 {
+  border-radius: 20px;
+  background: #4A1989;
+  position: absolute;
+  left: 101px;
+  bottom: 305px;
+  display: flex;
+  padding: 16.5px 1.9px 15.5px 0;
+  width: 255px;
+  box-sizing: border-box;
+}
+.welcome .screenshot-20240401134128-removebg-preview-22 {
+  width: 219px;
+  height: 110px;
+}
+.welcome .screenshot-20240401134128-removebg-preview-2 {
+  position: absolute;
+  left: -34px;
+  top: 10px;
+  display: flex;
+  width: 219px;
+  height: 110px;
+  box-sizing: border-box;
+}
+.welcome {
+  background: #FFFFFF;
+  padding: 10px 101px 0 101px;
+  width: 1440px;
+  box-sizing: border-box;
+}
